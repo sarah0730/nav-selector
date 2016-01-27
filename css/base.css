@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+/*=== base style===*/
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dt, dd, li, img, section, figure, figcaption,div{padding:0;margin:0;border: none;}
+body{font-family: Verdana, Geneva, sans-serif ,tahoma, arial, "\5B8B\4F53", "Lucida Grande", Lucida, "\5fae\8f6f\96c5\9ed1", sans-serif; font-size:12px; color:#333;  }
+html {font-family: "微软雅黑";-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;}
+ul,li {list-style: none;}
+h1, h2,h3,h4, h5, h6{font-weight:normal;}
+a{color:#337ab7; }
+a:link {color:#337ab7; }
+a:hover {color:#ffb752; }
+a, a:visited, a:hover, a:active{cursor: pointer;text-decoration: none;}
+a{blr:expression(this.onFocus=this.blur());}
+a{ outline: none;} 
+a:focus{ outline: none; }
+.clearfix:after {content:"";height:0;display:block;clear:both;}
+.clearfix {zoom:1;}
+input,select,textarea,button{box-sizing:border-box;-moz-box-sizing:border-box; -webkit-box-sizing:border-box;margin: 0;padding: 0;}
+
+/*公用*/
+/*外边距*/
+.fl{float: left;}
+.fr{float: right;}
+.mt0{margin-top: 0;}
+.mt5{margin-top: 5px;}
+.mt10{margin-top: 10px;}
+.mt15{margin-top: 15px;}
+.mt20{margin-top: 20px;}
+.mt25{margin-top: 25px;}
+.mt30{margin-top: 30px;}
+.mt35{margin-top: 35px;}
+.mt40{margin-top: 40px;}
+.ml0{margin-left: 0;}
+.ml5{margin-left: 5px;}
+.ml10{margin-left: 10px;}
+.ml15{margin-left: 15px;}
+.ml20{margin-left: 20px;}
+.ml25{margin-left: 25px;}
+.ml30{margin-left: 30px;}
+.ml35{margin-left: 35px;}
+.ml40{margin-left: 40px;}
+.mb0{margin-bottom: 0;}
+.mb5{margin-bottom: 5px;}
+.mb10{margin-bottom: 10px;}
+.mb15{margin-bottom: 15px;}
+.mb20{margin-bottom: 20px;}
+.mb25{margin-bottom: 25px;}
+.mb30{margin-bottom: 30px;}
+.mb35{margin-bottom: 35px;}
+.mb40{margin-bottom: 40px;}
+.mr0{margin-right: 0;}
+.mr2{margin-right: 2px;}
+.mr5{margin-right: 5px;}
+.mr10{margin-right: 10px;}
+.mr15{margin-right: 15px;}
+.mr20{margin-right: 20px;}
+.mr25{margin-right: 25px;}
+.mr30{margin-right: 30px;}
+.mr35{margin-right: 35px;}
+.mr40{margin-right: 40px;}
+/*内边距*/
+.pt0{padding-top: 0px;}
+.pt5{padding-top:5px;}
+.pt10{padding-top:10px;}
+.pt15{padding-top:15px;}
+.pt20{padding-top:20px;}
+.pr0{padding-right: 0;}
+.pr5{padding-right: 5px;}
+.pr10{padding-right: 10px;}
+.pr15{padding-right: 15px;}
+.pr20{padding-right: 20px;}
+.pb0{padding-bottom: 0;}
+.pb5{padding-bottom: 5px;}
+.pb10{padding-bottom: 10px;}
+.pb15{padding-bottom: 15px;}
+.pb20{padding-bottom: 20px;}
+.pl0{padding-left: 0;}
+.pl5{padding-left: 5px;}
+.pl10{padding-left: 10px;}
+.pl15{padding-left:15px;}
+.pl20{padding-left:20px;}
+
+
+/*input*/
+.input-phxl{height: 28px;font-size: 12px;line-height: 28px;border-radius: 3px;border: 1px solid #e3e9ef;}
+/*button*/
+.btn-phxl{height: 28px;min-height:100px;font-size: 12px;border-radius: 3px;border: 1px solid #e3e9ef;background-color: #2778b5;color: #fff;padding: 0 8px;}
+.btn-phxl-search{background-color: #fff;color: #ffb752;border: 1px solid #ffb752;}
+/*字体*/
+.bigger-130{font-size: 130%;}
+.blue{color: #478fca!important}
+.green {color: #69aa46!important;}
+.red {color: #dd5a43!important;}
+.white{color:#fff;}
+.grey{color: #eeeeee;}
+/*边框*/
+.box-border{border: 1px solid #e3e9ef;}
