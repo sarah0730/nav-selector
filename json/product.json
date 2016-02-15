@@ -1,0 +1,28 @@
+[{
+    "parentId" : "1001" , "text" : "品牌" ,"content" : [
+        { "childId" : "1" , "name" : "乐町" , "title" : "乐町", "url" : "http://www.qq.com" },
+        { "childId" : "2" , "name" : "欧时力" , "title" : "欧时力", "url" : "http://www.taobao.com" },
+        { "childId" : "3" , "name" : "精灵的口袋" , "title" : "精灵的口袋", "url" : "http://www.163.com" },
+        { "childId" : "4" , "name" : "太平鸟" , "title" : "太平鸟", "url" : "http://www.youku.com" },
+        { "childId" : "5" , "name" : "VEROMODA" , "title" : "VEROMADA", "url" : "http://www.duowan.com" },
+        { "childId" : "6" , "name" : "七格格" , "title" : "七格格", "url" : "http://www.sina.com" },
+        { "childId" : "7" , "name" : "哥弟" , "title" : "哥弟", "url" : "http://www.sohu.com" },
+        { "childId" : "8" , "name" : "烟花烫" , "title" : "烟花烫", "url" : "http://www.360.com" },
+        { "childId" : "9" , "name" : "拉夏贝尔" , "title" : "拉夏贝尔", "url" : "http://www.douyutv.com" },
+        { "childId" : "10" , "name" : "杰克琼斯" , "title" : "杰克琼斯", "url" : "http://www.jd.com" }
+    ]
+},{
+    "parentId" : "1002" , "text" : "价格" ,"content" : [
+        { "childId" : "1" , "name" : "100以下"},
+        { "childId" : "2" , "name" : "100~300"},
+        { "childId" : "3" , "name" : "300~500"},
+        { "childId" : "4" , "name" : "500以上"}
+    ]
+},{
+    "parentId" : "1003" , "text" : "类型" ,"content" : [
+        { "childId" : "1" , "name" : "上装"},
+        { "childId" : "2" , "name" : "夏装"},
+        { "childId" : "3" , "name" : "卫衣"},
+        { "childId" : "4" , "name" : "长裤"}
+    ]
+}]
